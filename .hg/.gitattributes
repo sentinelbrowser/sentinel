@@ -1,0 +1,2 @@
+blackbox.log filter=lfs diff=lfs merge=lfs -text
+store/00changelog.d filter=lfs diff=lfs merge=lfs -text
